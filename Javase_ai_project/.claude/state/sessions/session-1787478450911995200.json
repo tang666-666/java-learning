@@ -1,0 +1,59 @@
+{
+  "changes_this_session": [],
+  "channels_wake": {
+    "healthy": true,
+    "last_checked": "2026-08-24T09:17:51Z",
+    "last_error": ""
+  },
+  "cwd": "E:\\Java_learning\\Javase_ai_project",
+  "duration_minutes": 1413,
+  "ended_at": "2026-08-24T09:20:41Z",
+  "event_seq": 5,
+  "fork_count": 0,
+  "git": {
+    "branch": "master",
+    "last_commit": "d97f850",
+    "uncommitted_changes": 0
+  },
+  "harness_mem": {
+    "healthy": true,
+    "last_checked": "2026-08-24T09:17:51Z",
+    "last_error": ""
+  },
+  "last_event_id": "event-000005",
+  "memory_logged": true,
+  "night_watch": {
+    "healthy": true,
+    "last_checked": "2026-08-24T09:17:51Z",
+    "last_error": ""
+  },
+  "orchestration": {
+    "max_state_retries": 3,
+    "retry_backoff_seconds": 10
+  },
+  "parent_session_id": null,
+  "plans": {
+    "completed_tasks": 0,
+    "exists": false,
+    "last_modified": 0,
+    "pending_tasks": 0,
+    "todo_tasks": 0,
+    "wip_tasks": 0
+  },
+  "project_name": "Javase_ai_project",
+  "prompt_seq": 0,
+  "release_candidate": {
+    "age_days": 0,
+    "bump": "",
+    "last_checked": "2026-08-24T09:17:51Z",
+    "state": "not-applicable",
+    "tag": "",
+    "threshold_days": 0
+  },
+  "resume_token": "resume-1787478450911995200",
+  "session_id": "session-1787478450911995200",
+  "started_at": "2026-08-23T09:47:30Z",
+  "state": "stopped",
+  "state_version": 1,
+  "updated_at": "2026-08-24T09:20:28Z"
+}

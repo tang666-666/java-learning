@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/day02-basic/day02-basic.iml" filepath="$PROJECT_DIR$/day02-basic/day02-basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03-process/day03-process.iml" filepath="$PROJECT_DIR$/day03-process/day03-process.iml" />
       <module fileurl="file://$PROJECT_DIR$/day04-array/day04-array.iml" filepath="$PROJECT_DIR$/day04-array/day04-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-object/day05-object.iml" filepath="$PROJECT_DIR$/day05-object/day05-object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-oop/day06-oop.iml" filepath="$PROJECT_DIR$/day06-oop/day06-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-opp/day07-opp.iml" filepath="$PROJECT_DIR$/day07-opp/day07-opp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/day08-oop/day08-oop.iml" />
     </modules>
   </component>
 </project>
