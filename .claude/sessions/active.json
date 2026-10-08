@@ -1,20 +1,8 @@
 {
-  "18e3d10c-6266-4dcd-b03f-6bcd484b0d88": {
-    "short_id": "18e3d10c-626",
-    "last_seen": 1787628208,
-    "pid": "23624",
-    "status": "active"
-  },
-  "3f2037ac-188a-4e19-b5d5-45e13ded1de3": {
-    "short_id": "3f2037ac-188",
-    "last_seen": 1787553647,
-    "pid": "10440",
-    "status": "active"
-  },
-  "d6560458-0c0b-497f-b9d3-c17194a4f85e": {
-    "short_id": "d6560458-0c0",
-    "last_seen": 1787563033,
-    "pid": "26608",
+  "c7d13728-2489-4f90-a540-d775d4d62dec": {
+    "short_id": "c7d13728-248",
+    "last_seen": 1791170433,
+    "pid": "24484",
     "status": "active"
   }
 }

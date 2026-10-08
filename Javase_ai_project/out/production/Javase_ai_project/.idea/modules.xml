@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/day06-oop/day06-oop.iml" filepath="$PROJECT_DIR$/day06-oop/day06-oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/day07-opp/day07-opp.iml" filepath="$PROJECT_DIR$/day07-opp/day07-opp.iml" />
       <module fileurl="file://$PROJECT_DIR$/day08-oop/day08-oop.iml" filepath="$PROJECT_DIR$/day08-oop/day08-oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-collection/day09-collection.iml" filepath="$PROJECT_DIR$/day09-collection/day09-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-sys/employee-sys.iml" filepath="$PROJECT_DIR$/employee-sys/employee-sys.iml" />
     </modules>
   </component>
 </project>
